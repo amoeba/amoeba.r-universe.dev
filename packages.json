@@ -3,5 +3,15 @@
     "package": "eatocsv",
     "url": "https://github.com/amoeba/eatocsv",
     "branch" : "master"
+  },
+  {
+    "package": "pkgsci",
+    "url": "https://github.com/amoeba/pkgsci",
+    "branch: "master"
+  },
+  {
+    "package": "upriver",
+    "url": "https://github.com/amoeba/upriver",
+    "branch: "master"
   }
 ]
