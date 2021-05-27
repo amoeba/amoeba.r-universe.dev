@@ -2,16 +2,16 @@
   {
     "package": "eatocsv",
     "url": "https://github.com/amoeba/eatocsv",
-    "branch" : "master"
+    "branch": "master"
   },
   {
     "package": "pkgsci",
     "url": "https://github.com/amoeba/pkgsci",
-    "branch: "master"
+    "branch": "master"
   },
   {
     "package": "upriver",
     "url": "https://github.com/amoeba/upriver",
-    "branch: "master"
+    "branch": "master"
   }
 ]
